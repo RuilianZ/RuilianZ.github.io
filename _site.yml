@@ -11,3 +11,4 @@ navbar:
       href: http://github.com/RuilianZ/
 output:
   html_document:
+    theme: cosmo
