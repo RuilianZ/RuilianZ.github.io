@@ -1,19 +1,19 @@
 ---
-title: "My awesome website"
+title: "Roxy's website"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is Roxy's awesome website
+# Welcome
+
+Hey there! Welcome to Roxy's awesome website.
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-I can link to usefu things like [google](https://www.google.com/) and [p8105](https://www.p8105.com/)
-
 I can make an extra page on my site and link to that. Here's my [about](about.html) page
 
-# Here is a cat image
+# This is my resume
 
-<img src="images/cat.jpeg" style="width:75%">
+Check out my [resume](https://drive.google.com/file/d/1P6SdMCuz_3sHx0A63FUh0GzCqLX54OfA/view) here!
